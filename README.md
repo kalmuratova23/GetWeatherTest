@@ -30,3 +30,4 @@ npm run build
 # GetWeatherTest
 # GetWeatherTest
 # GetWeatherTest
+# StoreDemo
